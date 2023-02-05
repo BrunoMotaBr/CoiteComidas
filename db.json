@@ -1,0 +1,90 @@
+[
+    {
+    "id": 1,
+    "nome": "Arroz Branco",
+    "tipo":"Cozido",
+    "preço": "5,00" ,
+    "imagem": "/imgs/Arroz.jpg",
+    "quantidade": "100 gramas"
+    },
+    {
+    "id": 2,
+    "nome": "Feijão Carioca",
+    "tipo":"Cozido",
+    "preço": "3,00" ,
+    "imagem": "/imgs/FeijãoCarioca.jpg",
+    "quantidade": "50 gramas"
+    },
+    {
+    "id": 3,
+    "nome": "Coxão Duro",
+    "tipo":"Cozido",
+    "preço": "5,00" ,
+    "imagem": "/imgs/CoxãoDuro.jpg",
+    "quantidade": "50 gramas"
+    },
+    {
+    "id": 4,
+    "nome": "Feijão Branco",
+    "tipo":"Cozido",
+    "preço": "5,00" ,
+    "imagem": "/imgs/FeijãoBranco.jpg",
+    "quantidade": "50 gramas"
+    },
+    {
+    "id": 5,
+    "nome": "Batata Frita",
+    "tipo":"Frito",
+    "preço": "7,00" ,
+    "imagem": "/imgs/BatataFrita.jpg",
+    "quantidade": "100 gramas"
+    },
+    {
+    "id": 6,
+    "nome": "Costela de Porco",
+    "tipo": "Assado",
+    "preço": "7,00" ,
+    "imagem": "/imgs/CostelaDePorco.jpg",
+    "quantidade": "100 gramas"
+    },
+    {
+    "id": 7,
+    "nome": "Arroz Integral",
+    "tipo": "Cozido",
+    "preço": "7,00" ,
+    "imagem": "/imgs/ArrozIntegral.jpg",
+    "quantidade": "100 gramas"
+    },
+    {
+    "id": 8,
+    "nome": "Costela de Boi",
+    "tipo":"Cozido",
+    "preço": "6,00" ,
+    "imagem": "/imgs/CostelaDeBoi.jpg",
+    "quantidade": "750 gramas"
+    },
+    {
+    "id": 9,
+    "nome": "Ovo",
+    "tipo":"Frito",
+    "preço": "3,00" ,
+    "imagem": "/imgs/OvoFrito.jpg",
+    "quantidade": "Dois Ovos"
+    },
+    {
+    "id": 10,
+    "nome": "Salada de Alface",
+    "tipo": "Crua",
+    "preço": "5,00" ,
+    "imagem": "/imgs/SaladaDeAlface.jpg",
+    "quantidade": "100 gramas"
+    },
+    {
+    "id": 11,
+    "nome": "Salada de Maioneze",
+    "tipo": "Cozido",
+    "preço": "7,00" ,
+    "imagem": "/imgs/SaladaDeMaioneze.jpg",
+    "quantidade": "100 gramas"
+    }
+]
